@@ -1,0 +1,1 @@
+/*a palavra const refere-se a uma variavel que não irá alterar seu valor (constante); ja a palavra let é atribuida a uma variavel que pode mudar seu valor ao decorrer do codigo*/
