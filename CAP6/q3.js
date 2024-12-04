@@ -10,3 +10,5 @@ function mediaNotas (){
 
     console.log("Sua média é: ", mediaFormatada)
 }
+
+mediaNotas()
